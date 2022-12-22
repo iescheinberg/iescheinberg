@@ -1,6 +1,7 @@
-<div id="header" aling="center">
-    <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"/>
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/kFtWBJ5Ryug1IY4ZHM/giphy.gif" width="800" height="400"/>
 </div>
+
 <h1 align="center">Hi 👋, I'm Ezequiel</h1>
 <h3 align="center">A developer in development from Argentina🧉</h3>
 
