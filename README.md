@@ -1,3 +1,6 @@
+<div id="header" aling="center">
+    <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"/>
+</div>
 <h1 align="center">Hi 👋, I'm Ezequiel</h1>
 <h3 align="center">A developer in development from Argentina🧉</h3>
 
